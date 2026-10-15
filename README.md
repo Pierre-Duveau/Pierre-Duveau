@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/VOTRE_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/pierre-duveau" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://VOTRE_PORTFOLIO.com" target="_blank">
@@ -15,7 +15,7 @@
   <a href="mailto:VOTRE_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=VOTRE_PSEUDO&label=Vues+du+profil&color=0e75b6&style=for-the-badge" alt="Vues du profil" />
+  <img src="https://komarev.com/ghpvc/?username=Pierre-Duveau&label=Vues+du+profil&color=0e75b6&style=for-the-badge" alt="Vues du profil" />
 </p>
 
 ---
@@ -36,15 +36,13 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 **Web & Frameworks**
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <!--<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> -->
+  <!--<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" /> -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
 **Outils & Environnement**
@@ -81,15 +79,15 @@
 ### 📊 Statistiques & Activité GitHub
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Langages" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Pierre-Duveau&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Duveau&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Langages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=VOTRE_PSEUDO&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Pierre-Duveau&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Streak" />
 </div>
 
 <!-- Graphique d'activité des commits -->
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=VOTRE_PSEUDO&theme=tokyo-night&hide_border=true&area=true" alt="Graphique d'activité" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pierre-Duveau&theme=tokyo-night&hide_border=true&area=true" alt="Graphique d'activité" />
 </div>
